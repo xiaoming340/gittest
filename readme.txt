@@ -1,5 +1,5 @@
 Git is a distributed version control system.
-Git is free software.
+Git is a free software.
 asdgasd
 add in dev branch
 creating a new branch is simple
